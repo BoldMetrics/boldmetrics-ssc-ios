@@ -1,0 +1,195 @@
+[
+  {
+    "v": 1,
+    "type": "bmi_ssc_loaded",
+    "ts": 1795625815005,
+    "payload": {
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "json": {}
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_recommendation_sent",
+    "ts": 1795625815408,
+    "payload": {
+      "size": "Big Girls (7-16) | REGULAR | XL(16/18)",
+      "sizeId": "Big Girls (7-16) | REGULAR | XL(16/18)",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "381b1f60-e8f1-11f1-86d0-6f1cf567f4bc",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_selected_size",
+    "ts": 1795625815408,
+    "payload": {
+      "size": "Big Girls (7-16) | REGULAR | XL(16/18)",
+      "sizeId": "Big Girls (7-16) | REGULAR | XL(16/18)",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "381b1f60-e8f1-11f1-86d0-6f1cf567f4bc",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_open_url",
+    "ts": 1795625827750,
+    "payload": {
+      "url": "https://boldmetrics.com/"
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_selected_size",
+    "ts": 1795625828559,
+    "payload": {
+      "size": "Big Girls (7-16) | REGULAR | L (12/14)",
+      "sizeId": "Big Girls (7-16) | REGULAR | L (12/14)",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "381b1f60-e8f1-11f1-86d0-6f1cf567f4bc",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_selected_size",
+    "ts": 1795625829365,
+    "payload": {
+      "size": "Big Girls (7-16) | REGULAR | XL(16/18)",
+      "sizeId": "Big Girls (7-16) | REGULAR | XL(16/18)",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "381b1f60-e8f1-11f1-86d0-6f1cf567f4bc",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_add_to_cart",
+    "ts": 1795625830170,
+    "payload": {
+      "size": "Big Girls (7-16) | REGULAR | XL(16/18)",
+      "sizeId": "Big Girls (7-16) | REGULAR | XL(16/18)",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "381b1f60-e8f1-11f1-86d0-6f1cf567f4bc",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_selected_size",
+    "ts": 1795625830171,
+    "payload": {
+      "size": "Big Girls (7-16) | REGULAR | XL(16/18)",
+      "sizeId": "Big Girls (7-16) | REGULAR | XL(16/18)",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "381b1f60-e8f1-11f1-86d0-6f1cf567f4bc",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_selected_item",
+    "ts": 1795625830181,
+    "payload": {
+      "selectedItem": {
+        "parentId": "Kids Test Product",
+        "selectedSize": "Big Girls (7-16) | REGULAR | XL(16/18)",
+        "recSelections": {
+          "size": "Big Girls (7-16) | REGULAR | XL(16/18)",
+          "outOfStock": {
+            "Big Girls (7-16) | REGULAR | M (8/10)": false,
+            "Big Girls (7-16) | REGULAR | L (12/14)": false,
+            "Big Girls (7-16) | REGULAR | XL(16/18)": false
+          },
+          "bestMatches": [],
+          "fit": false
+        },
+        "variants": [
+          {
+            "available": true,
+            "id": "kids-test-product-01",
+            "size": "LITTLE GIRLS (4-6X) | REGULAR | S (4)",
+            "fit": "Regular"
+          },
+          {
+            "available": true,
+            "id": "kids-test-product-02",
+            "size": "LITTLE GIRLS (4-6X) | REGULAR | M (5)",
+            "fit": "Regular"
+          },
+          {
+            "available": true,
+            "id": "kids-test-product-03",
+            "size": "LITTLE GIRLS (4-6X) | REGULAR | L (6)",
+            "fit": "Regular"
+          },
+          {
+            "available": true,
+            "id": "kids-test-product-04",
+            "size": "Big Girls (7-16) | REGULAR | S (7)",
+            "fit": "Regular"
+          },
+          {
+            "available": false,
+            "id": "kids-test-product-05",
+            "size": "Big Girls (7-16) | REGULAR | M (8/10)",
+            "fit": "Regular"
+          },
+          {
+            "available": true,
+            "id": "kids-test-product-06",
+            "size": "Big Girls (7-16) | REGULAR | L (12/14)",
+            "fit": "Regular"
+          },
+          {
+            "available": true,
+            "id": "kids-test-product-07",
+            "size": "Big Girls (7-16) | REGULAR | XL(16/18)",
+            "fit": "Regular"
+          }
+        ],
+        "matchedToIndividualVariant": true,
+        "matchingVariants": [
+          {
+            "available": true,
+            "id": "kids-test-product-07",
+            "size": "Big Girls (7-16) | REGULAR | XL(16/18)",
+            "fit": "Regular"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_close",
+    "ts": 1795625831195,
+    "payload": {
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "mode": "mobile",
+      "json": {}
+    }
+  }
+]

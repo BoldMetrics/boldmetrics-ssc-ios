@@ -1,0 +1,74 @@
+[
+  {
+    "v": 1,
+    "type": "bmi_embed_boot",
+    "ts": 1795625785045,
+    "payload": {}
+  },
+  {
+    "v": 1,
+    "type": "bmi_ssc_loaded",
+    "ts": 1795625785345,
+    "payload": {
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "json": {}
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_recommendation_sent",
+    "ts": 1795625801302,
+    "payload": {
+      "size": "M",
+      "sizeId": "M",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "2fb0bbf0-e8f1-11f1-86d0-6f1cf567f4bc",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_selected_size",
+    "ts": 1795625801303,
+    "payload": {
+      "size": "M",
+      "sizeId": "M",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "2fb0bbf0-e8f1-11f1-86d0-6f1cf567f4bc",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_selected_size",
+    "ts": 1795625810303,
+    "payload": {
+      "size": "S",
+      "sizeId": "S",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "2fb0bbf0-e8f1-11f1-86d0-6f1cf567f4bc",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_close",
+    "ts": 1795625811108,
+    "payload": {
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "mode": "mobile",
+      "json": {}
+    }
+  }
+]

@@ -1,0 +1,60 @@
+{
+    "locale": "en-US",
+    "product": {
+        "id": "Mens Nano Vest",
+        "price": 129,
+        "sizechart": "mens_nano_vest",
+        "type": "BMI MENS > Vests",
+        "title": "Nano Vest",
+        "variants": [
+            {
+                "available": true,
+                "id": "mens-nano-vest-01",
+                "size": "XXS",
+                "fit": "Regular"
+            },
+            {
+                "available": false,
+                "id": "mens-nano-vest-02",
+                "size": "XS",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "mens-nano-vest-03",
+                "size": "S",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "mens-nano-vest-04",
+                "size": "M",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "mens-nano-vest-05",
+                "size": "L",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "mens-nano-vest-06",
+                "size": "XL",
+                "fit": "Regular"
+            },
+            {
+                "available": false,
+                "id": "mens-nano-vest-07",
+                "size": "XXL",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "mens-nano-vest-08",
+                "size": "XXXL",
+                "fit": "Regular"
+            }
+        ]
+    }
+}

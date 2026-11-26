@@ -1,0 +1,54 @@
+{
+    "locale": "en-US",
+    "product": {
+        "id": "Kids Test Product",
+        "price": 39.95,
+        "sizechart": "womens_kids_generic",
+        "type": "BMI KIDS > Girls",
+        "title": "Kids Test Product",
+        "variants": [
+            {
+                "available": true,
+                "id": "kids-test-product-01",
+                "size": "LITTLE GIRLS (4-6X) | REGULAR | S (4)",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "kids-test-product-02",
+                "size": "LITTLE GIRLS (4-6X) | REGULAR | M (5)",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "kids-test-product-03",
+                "size": "LITTLE GIRLS (4-6X) | REGULAR | L (6)",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "kids-test-product-04",
+                "size": "Big Girls (7-16) | REGULAR | S (7)",
+                "fit": "Regular"
+            },
+            {
+                "available": false,
+                "id": "kids-test-product-05",
+                "size": "Big Girls (7-16) | REGULAR | M (8/10)",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "kids-test-product-06",
+                "size": "Big Girls (7-16) | REGULAR | L (12/14)",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "kids-test-product-07",
+                "size": "Big Girls (7-16) | REGULAR | XL(16/18)",
+                "fit": "Regular"
+            }
+        ]
+    }
+}
