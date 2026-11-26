@@ -1,0 +1,48 @@
+{
+    "locale": "en-US",
+    "product": {
+        "id": "Womens Nano Vest",
+        "price": 129,
+        "sizechart": "womens_nano_vest",
+        "type": "BMI WOMENS > Vests",
+        "title": "Nano Vest",
+        "variants": [
+            {
+                "available": true,
+                "id": "womens-nano-vest-01",
+                "size": "XXS",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "womens-nano-vest-02",
+                "size": "XS",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "womens-nano-vest-03",
+                "size": "S",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "womens-nano-vest-04",
+                "size": "M",
+                "fit": "Regular"
+            },
+            {
+                "available": false,
+                "id": "womens-nano-vest-05",
+                "size": "L",
+                "fit": "Regular"
+            },
+            {
+                "available": true,
+                "id": "womens-nano-vest-06",
+                "size": "XL",
+                "fit": "Regular"
+            }
+        ]
+    }
+}

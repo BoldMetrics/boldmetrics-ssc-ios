@@ -1,0 +1,199 @@
+[
+  {
+    "v": 1,
+    "type": "bmi_embed_boot",
+    "ts": 1795625757939,
+    "payload": {}
+  },
+  {
+    "v": 1,
+    "type": "bmi_ssc_loaded",
+    "ts": 1795625758222,
+    "payload": {
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "json": {}
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_recommendation_sent",
+    "ts": 1795625767729,
+    "payload": {
+      "size": "M",
+      "sizeId": "M",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "1bb00980-e8f1-11f1-972a-a33b189a3eb5",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_selected_size",
+    "ts": 1795625767729,
+    "payload": {
+      "size": "M",
+      "sizeId": "M",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "1bb00980-e8f1-11f1-972a-a33b189a3eb5",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_selected_size",
+    "ts": 1795625773455,
+    "payload": {
+      "size": "L",
+      "sizeId": "L",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "1bb00980-e8f1-11f1-972a-a33b189a3eb5",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_selected_size",
+    "ts": 1795625774260,
+    "payload": {
+      "size": "M",
+      "sizeId": "M",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "1bb00980-e8f1-11f1-972a-a33b189a3eb5",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_add_to_cart",
+    "ts": 1795625775062,
+    "payload": {
+      "size": "Medium",
+      "sizeId": "M",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "1bb00980-e8f1-11f1-972a-a33b189a3eb5",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_selected_size",
+    "ts": 1795625775062,
+    "payload": {
+      "size": "M",
+      "sizeId": "M",
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "recId": "1bb00980-e8f1-11f1-972a-a33b189a3eb5",
+      "json": {
+        "code": 200
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_selected_item",
+    "ts": 1795625775066,
+    "payload": {
+      "selectedItem": {
+        "parentId": "Mens Nano Vest",
+        "selectedSize": "Medium",
+        "recSelections": {
+          "size": "M",
+          "outOfStock": {
+            "S": false,
+            "M": false,
+            "L": false
+          },
+          "bestMatches": [],
+          "fit": false
+        },
+        "variants": [
+          {
+            "available": true,
+            "id": "mens-nano-vest-01",
+            "size": "XXS",
+            "fit": "Regular"
+          },
+          {
+            "available": false,
+            "id": "mens-nano-vest-02",
+            "size": "XS",
+            "fit": "Regular"
+          },
+          {
+            "available": true,
+            "id": "mens-nano-vest-03",
+            "size": "S",
+            "fit": "Regular"
+          },
+          {
+            "available": true,
+            "id": "mens-nano-vest-04",
+            "size": "M",
+            "fit": "Regular"
+          },
+          {
+            "available": true,
+            "id": "mens-nano-vest-05",
+            "size": "L",
+            "fit": "Regular"
+          },
+          {
+            "available": true,
+            "id": "mens-nano-vest-06",
+            "size": "XL",
+            "fit": "Regular"
+          },
+          {
+            "available": false,
+            "id": "mens-nano-vest-07",
+            "size": "XXL",
+            "fit": "Regular"
+          },
+          {
+            "available": true,
+            "id": "mens-nano-vest-08",
+            "size": "XXXL",
+            "fit": "Regular"
+          }
+        ],
+        "matchedToIndividualVariant": true,
+        "matchingVariants": [
+          {
+            "available": true,
+            "id": "mens-nano-vest-04",
+            "size": "M",
+            "fit": "Regular"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "v": 1,
+    "type": "bmi_close",
+    "ts": 1795625776068,
+    "payload": {
+      "fit": false,
+      "userId": "bm=3f2b8c1e-7a4d-4e9b-9c55-0d6a1b2c3d4e",
+      "mode": "mobile",
+      "json": {}
+    }
+  }
+]
